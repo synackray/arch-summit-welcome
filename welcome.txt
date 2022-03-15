@@ -1,0 +1,29 @@
+
+
+ _____                             _         _       _   _                 _
+/  __ \                           | |       | |     | | (_)               | |
+| /  \/ ___  _ __   __ _ _ __ __ _| |_ _   _| | __ _| |_ _  ___  _ __  ___| |
+| |    / _ \| '_ \ / _` | '__/ _` | __| | | | |/ _` | __| |/ _ \| '_ \/ __| |
+| \__/\ (_) | | | | (_| | | | (_| | |_| |_| | | (_| | |_| | (_) | | | \__ \_|
+ \____/\___/|_| |_|\__, |_|  \__,_|\__|\__,_|_|\__,_|\__|_|\___/|_| |_|___(_)
+                    __/ |
+                   |___/
+
+You've succcessfully installed Docker and run your very first container.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the image from GitHub.
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+With this new found ability, you're one step closer to unlocking the secrets
+of containerization and automation capabilities at TSC!
+
+
+Special thanks to Ross Hunt (@rhunt) for volunteering the time to automate
+the lab provisioning process.
+
+
